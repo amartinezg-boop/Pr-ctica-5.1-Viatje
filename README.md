@@ -1,4 +1,3 @@
-# Practica-5.1-Viatje
 | Eina | | Propòsit | | Target |
 | :---: | | :---: | | :---: |
 | Gmail | | Enviem correus per compartir informació | | Persones o empreses | 
