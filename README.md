@@ -85,6 +85,10 @@ En obrir l'opció **Mostra l'original** d'un dels missatges rebuts, els tres mec
 ### Convidat al Calendari
 <img width="773" height="160" alt="Captura desde 2026-11-26 13-16-16" src="https://github.com/user-attachments/assets/92969de8-472f-49a8-9b1a-d05b2e155069" />
 
+### Verificació en dos passos
+<img width="797" height="181" alt="Captura desde 2026-11-26 13-32-27" src="https://github.com/user-attachments/assets/4341bf85-658c-413c-bcdd-e82064acf6e9" />
+
+
 ### Tasques que fer
 
 <img width="674" height="357" alt="Captura desde 2026-11-26 13-27-02" src="https://github.com/user-attachments/assets/319fa98e-7641-45cd-9da3-7aaecc0bdfeb" />
