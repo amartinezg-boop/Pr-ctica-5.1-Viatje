@@ -30,6 +30,8 @@ L'accés **IMAP** es troba **actiu per defecte** al compte educatiu de Google Wo
 | **Correu sortint (SMTP)** | Actiu | `smtp.gmail.com` | `465` (o `587`) | SSL/TLS (o STARTTLS) | Sí (obligatòria) |
 | **Correu entrant (POP)** | Inhabilitat | `pop.gmail.com` | `995` | SSL/TLS | Sí |
 
+<img width="1853" height="961" alt="Captura desde 2026-11-26 10-48-47" src="https://github.com/user-attachments/assets/68204058-77e5-411c-93cd-eba7f2b01c92" />
+
 ---
 
 ### 2. Enviament entre dues sessions i aplicació d'etiquetes
