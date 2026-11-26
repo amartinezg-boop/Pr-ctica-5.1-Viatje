@@ -75,3 +75,9 @@ En obrir l'opció **Mostra l'original** d'un dels missatges rebuts, els tres mec
 | **8** | Resposta automàtica (repetició) | Enviar un segon correu seguit des del mateix compte extern. | Gmail no torna a enviar la resposta automàtica (evita spam). | No es repeteix l'enviament. | OK |
 | **9** | Resposta automàtica (fora de dates) | Enviar correu fora del rang de dates configurat. | No s'envia cap resposta automàtica. | Sense resposta automàtica. | OK |
 | **10** | Autenticació a la capçalera | Obrir *Mostra l'original* en un missatge rebut. | SPF, DKIM i DMARC mostren estat `PASS`. | Tots tres indiquen `PASS`. | OK |
+
+## Fase 3: El viatge a Alemanya (3 - 9 de març de 2027)
+
+* **Ruta a Google Maps (7 dies):** [Veure ruta completa](https://maps.app.goo.gl/vYpNpnaXvZMkmNTD7)
+* **Pressupost (Google Sheets):** [Veure full de càlcul](https://docs.google.com/spreadsheets/d/15Hx6Cryi21U2MsU5gEiiFSfL6VXLl1kCabi9r5NB78I/edit?usp=sharing)
+* **Calendari (Google Calendar):** [Veure calendari del viatge](https://calendar.google.com/calendar/u/0?cid=Y19kZjI3YjczMjJjMWQ5MGJiNzNjMjQ2ZWU5OWM5YTlkZDBiMDVhY2YxZTAzZDQwZTA5NzNkNDc3OTViOGVmYTcyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
