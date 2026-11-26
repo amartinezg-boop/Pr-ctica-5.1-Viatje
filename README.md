@@ -81,3 +81,6 @@ En obrir l'opció **Mostra l'original** d'un dels missatges rebuts, els tres mec
 * **Ruta a Google Maps (7 dies):** [Veure ruta completa](https://maps.app.goo.gl/vYpNpnaXvZMkmNTD7)
 * **Pressupost (Google Sheets):** [Veure full de càlcul](https://docs.google.com/spreadsheets/d/15Hx6Cryi21U2MsU5gEiiFSfL6VXLl1kCabi9r5NB78I/edit?usp=sharing)
 * **Calendari (Google Calendar):** [Veure calendari del viatge](https://calendar.google.com/calendar/u/0?cid=Y19kZjI3YjczMjJjMWQ5MGJiNzNjMjQ2ZWU5OWM5YTlkZDBiMDVhY2YxZTAzZDQwZTA5NzNkNDc3OTViOGVmYTcyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+### Convidat al Calendari
+<img width="773" height="160" alt="Captura desde 2026-11-26 13-16-16" src="https://github.com/user-attachments/assets/92969de8-472f-49a8-9b1a-d05b2e155069" />
