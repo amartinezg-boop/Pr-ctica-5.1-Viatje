@@ -38,6 +38,8 @@ L'accés **IMAP** es troba **actiu per defecte** al compte educatiu de Google Wo
 
 S'han obert dues sessions simultànies (navegador normal i finestra d'incògnit) i s'ha enviat un missatge complint les condicions del filtre configurat. El correu s'ha rebut correctament i se li ha aplicat automàticament l'etiqueta **`institut`**.
 
+<img width="1853" height="961" alt="Captura desde 2026-11-26 10-57-08" src="https://github.com/user-attachments/assets/3775e4c2-9b43-470b-95aa-294501f81a57" />
+
 ---
 
 ### 3. Resposta i verificació de retorn
