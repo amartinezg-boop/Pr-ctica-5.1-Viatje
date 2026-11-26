@@ -30,7 +30,7 @@ L'accés **IMAP** es troba **actiu per defecte** al compte educatiu de Google Wo
 | **Correu sortint (SMTP)** | Actiu | `smtp.gmail.com` | `465` (o `587`) | SSL/TLS (o STARTTLS) | Sí (obligatòria) |
 | **Correu entrant (POP)** | Inhabilitat | `pop.gmail.com` | `995` | SSL/TLS | Sí |
 
-<img width="1853" height="961" alt="Captura desde 2026-11-26 10-48-47" src="https://github.com/user-attachments/assets/68204058-77e5-411c-93cd-eba7f2b01c92" />
+<img alt="Captura desde 2026-11-26 10-48-47" src="https://github.com/user-attachments/assets/68204058-77e5-411c-93cd-eba7f2b01c92" />
 
 ---
 
@@ -38,7 +38,7 @@ L'accés **IMAP** es troba **actiu per defecte** al compte educatiu de Google Wo
 
 S'han obert dues sessions simultànies (navegador normal i finestra d'incògnit) i s'ha enviat un missatge complint les condicions del filtre configurat. El correu s'ha rebut correctament i se li ha aplicat automàticament l'etiqueta **`institut`**.
 
-<img width="1913" height="252" alt="Captura desde 2026-11-26 10-58-51" src="https://github.com/user-attachments/assets/17d8e571-e0e9-4c5e-89c0-f77f90a213b6" />
+<img alt="Captura desde 2026-11-26 10-58-51" src="https://github.com/user-attachments/assets/17d8e571-e0e9-4c5e-89c0-f77f90a213b6" />
 
 
 ---
@@ -47,7 +47,7 @@ S'han obert dues sessions simultànies (navegador normal i finestra d'incògnit)
 
 Des del compte receptor s'ha respost al missatge anterior i s'ha comprovat que la resposta torna correctament a la safata d'entrada del compte original dins el mateix fil de conversa.
 
-<img width="1853" height="961" alt="Captura desde 2026-11-26 10-57-08" src="https://github.com/user-attachments/assets/3775e4c2-9b43-470b-95aa-294501f81a57" />
+<img alt="Captura desde 2026-11-26 10-57-08" src="https://github.com/user-attachments/assets/3775e4c2-9b43-470b-95aa-294501f81a57" />
 
 ---
 
