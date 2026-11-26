@@ -16,7 +16,7 @@
 
 # Prova de etiqueta, filtres i resposta automàtica
 
-<img width="1920" height="1080" alt="Captura desde 2026-11-12 14-11-18" src="https://github.com/user-attachments/assets/92805f7e-891c-403f-be24-4027008ad170" />
+<img alt="Captura desde 2026-11-12 14-11-18" src="https://github.com/user-attachments/assets/92805f7e-891c-403f-be24-4027008ad170" />
 
 ## Fase 2: Comprovar l'accés
 
